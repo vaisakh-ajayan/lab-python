@@ -1,0 +1,7 @@
+By looping through the lines of the file, you can read the whole file
+line2 Continuation lines
+line3 should align
+line4 wrapped elements
+line5 either vertically 
+line6 using Python's
+line7 implicit

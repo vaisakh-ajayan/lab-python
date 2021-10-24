@@ -1,0 +1,10 @@
+By looping through the lines of the file, you can read the whole file	Immediately before the open parenthesis
+
+line2 Continuation lines	starts the argument list of a function call
+
+line3 should align	More than one space around an assignment
+
+line4 wrapped elements	Avoid trailing whitespace anywhere
+line5 either vertically 	
+line6 using Python's	
+line7 implicit	

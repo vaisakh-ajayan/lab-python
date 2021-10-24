@@ -1,0 +1,4 @@
+Immediately before the open parenthesis
+starts the argument list of a function call
+More than one space around an assignment
+Avoid trailing whitespace anywhere
